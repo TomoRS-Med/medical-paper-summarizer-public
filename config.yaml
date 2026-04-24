@@ -15,29 +15,29 @@ search:
 
 # --- 専門領域名（表示・プロンプトに使用） ---
 # Setupワークフローで自動設定されます
-specialty_name: "循環器内科"
+specialty_name: "精神科"
 
 # --- 専門領域 ---
 specialties:
   # 最優先領域
   primary:
-    - heart failure
-    - ischemic heart disease
-    - myocardial infarction
-    - coronary artery disease
-    - atrial fibrillation
+    - psychiatry
+    - sleep medicine
+    - neuroscience
+    - computational neuroscience
+    - neurophysilogy
   # 次点で重要な領域
   secondary:
-    - hypertension
-    - diabetes mellitus
-    - dyslipidemia
-    - echocardiography
-    - coronary artery disease prevention
-    - cardiomyopathy
-    - cardiac emergency
-    - valvular heart disease
-    - ventricular tachycardia
-    - ventricular fibrillation
+    - sleep wake
+    - ion channel
+    - depressive disorder
+    - schizophrenia
+    - bipolar disorder
+    - ASD
+    - ADHD
+    - neurotransmitter
+    - neuron
+    - synapse
 
 # --- 優先ジャーナル ---
 journals:
@@ -46,23 +46,24 @@ journals:
     - "N Engl J Med"
     - "JAMA"
     - "Lancet"
-    - "BMJ"
-    - "Ann Intern Med"
-  # Tier 2 - 循環器専門誌
+    - "Nature"
+    - "Science"
+    - "Cell
+  # Tier 2 - 精神科専門誌
   tier2:
-    - "Circulation"
-    - "J Am Coll Cardiol"
-    - "Eur Heart J"
+    - "Journal of Physiology"
+    - "Nature Neuroscience"
+    - "Neuron"
   # Tier 3 - その他重要誌
   tier3:
-    - "JAMA Cardiol"
-    - "JAMA Intern Med"
-    - "Circ Res"
-    - "Heart"
-    - "JACC Heart Fail"
-    - "Eur J Heart Fail"
-    - "Heart Rhythm"
-    - "Europace"
+    - "Signal transduction and targeted therapy"
+    - "American Journal of Psychiatry"
+    - "Cell report"
+    - "Scientific report"
+    - "PNAS"
+    - "Nature communications"
+    - "Molecular psychiatry"
+    - "Science advances"
 
 # --- 論文タイプスコア ---
 study_type_scores:
@@ -125,12 +126,12 @@ clinical_relevance:
     - "clinical practice guideline"
     - "treatment outcome"
     - "all-cause mortality"
-    - "cardiovascular outcome"
-    - "cardiovascular death"
-    - "major adverse cardiovascular events"
-    - "mace"
-    - "heart failure hospitalization"
-    - "primary endpoint"
+    - "sleep"
+    - "therapeutic target"
+    - "mechanism"
+    - "molecule"
+    - "ion channel"
+    - "computational"
   # 実臨床への応用性キーワード（+3点）
   practical:
     - "real-world"

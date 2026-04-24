@@ -1,234 +1,192 @@
-# ===================================================================
-# 医学論文自動収集・要約システム 設定ファイル
-# ===================================================================
-
-# --- 検索設定 ---
 search:
-  # 検索対象期間（過去何日分）
   days_back: 7
-  # 最大取得論文数（フィルタリング前）
   max_results: 200
-  # 最終選出論文数
   top_n: 10
-  # Top論文の詳細要約数
   detailed_top_n: 10
-
-# --- 専門領域名（表示・プロンプトに使用） ---
-# Setupワークフローで自動設定されます
-specialty_name: "精神科"
-
-# --- 専門領域 ---
-specialties:
-  # 最優先領域
-  primary:
-    - psychiatry
-    - sleep medicine
-    - neuroscience
-    - computational neuroscience
-    - neurophysilogy
-  # 次点で重要な領域
-  secondary:
-    - sleep wake
-    - ion channel
-    - depressive disorder
-    - schizophrenia
-    - bipolar disorder
-    - ASD
-    - ADHD
-    - neurotransmitter
-    - neuron
-    - synapse
-# --- 優先ジャーナル ---
-journals:
-  # Tier 1 - 総合医学誌（最高優先度）
-  tier1:
-    - "N Engl J Med"
-    - "JAMA"
-    - "Lancet"
-    - "Nature"
-    - "Science"
-    - "Cell"
-  # Tier 2 - 精神科専門誌
-  tier2:
-    - "Journal of Physiology"
-    - "Nature Neuroscience"
-    - "Neuron"
-  # Tier 3 - その他重要誌
-  tier3:
-    - "Signal transduction and targeted therapy"
-    - "American Journal of Psychiatry"
-    - "Cell report"
-    - "Scientific report"
-    - "PNAS"
-    - "Nature communications"
-    - "Molecular psychiatry"
-    - "Science advances"
-
-# --- 論文タイプスコア ---
 study_type_scores:
-  "Randomized Controlled Trial": 10
-  "Meta-Analysis": 9
-  "Systematic Review": 9
-  "Clinical Trial": 8
-  "Multicenter Study": 7
-  "Observational Study": 6
-  "Cohort Study": 6
-  "Practice Guideline": 10
-  "Guideline": 10
-  "Review": 4
-  "Case Reports": 1
-  "Editorial": 2
-  "Comment": 1
-  "Letter": 1
-
-# --- 除外する論文タイプ ---
+  Randomized Controlled Trial: 10
+  Meta-Analysis: 9
+  Systematic Review: 9
+  Clinical Trial: 8
+  Multicenter Study: 7
+  Observational Study: 6
+  Cohort Study: 6
+  Practice Guideline: 10
+  Guideline: 10
+  Review: 4
+  Case Reports: 1
+  Editorial: 2
+  Comment: 1
+  Letter: 1
 exclude_types:
-  - "Case Reports"
-  - "Editorial"
-  - "Comment"
-  - "Letter"
-  - "Published Erratum"
-
-# --- AI要約設定 ---
-ai:
-  # Gemini モデル フォールバックチェーン（順に試行）
-  model_chain:
-    - "gemini-2.5-flash"
-    - "gemini-2.5-flash-lite-preview-09-2025"
-    - "gemini-2.0-flash"
-  # API呼び出しタイムアウト（秒）
-  timeout: 120
-  # リトライ回数
-  max_retries: 3
-  # リトライ間隔（秒）
-  retry_delay: 5
-
-# --- 出力設定 ---
-output:
-  # 出力ディレクトリ
-  directory: "output"
-  # ファイル名フォーマット（日付は自動挿入）
-  filename_format: "週刊医学論文レビュー_{date}.docx"
-
-# --- 履歴管理 ---
-history:
-  # 履歴ファイルパス
-  file: "history.json"
-  # 履歴保持期間（日）
-  retention_days: 180
-
-# --- 臨床関連性スコア設定 ---
+- Case Reports
+- Editorial
+- Comment
+- Letter
+- Published Erratum
 clinical_relevance:
-  # 高臨床的価値キーワード（+5点、いずれか1つ含めばOK）
   high_value:
-    - "randomized controlled trial"
-    - "clinical practice guideline"
-    - "treatment outcome"
-    - "all-cause mortality"
-    - "sleep"
-    - "therapeutic target"
-    - "mechanism"
-    - "molecule"
-    - "ion channel"
-    - "computational"
-  # 実臨床への応用性キーワード（+3点）
+  - symptom remission
+  - functional recovery
+  - quality of life
+  - relapse prevention
+  - treatment response
+  - suicide risk
+  - cognitive decline
+  - sleep quality improvement
+  - daytime sleepiness
+  - mortality risk
   practical:
-    - "real-world"
-    - "routine clinical"
-    - "pragmatic"
-    - "clinical decision"
-    - "patient management"
-    - "standard of care"
-    - "clinical practice"
-    - "clinical outcome"
-  # 日本・アジア人データ（+2点）
+  - clinical guidelines
+  - treatment algorithm
+  - patient outcomes
+  - personalized medicine
+  - diagnostic accuracy
+  - prognostic markers
+  - implementation science
+  - digital therapeutics
   japan_relevant:
-    - "japanese"
-    - "asian"
-    - "japan"
-    - "east asian"
-
-# --- 基礎研究除外フレーズ ---
-# タイトル・アブストラクトにこれらが含まれ、かつ臨床ワードがない場合は除外
+  - japanese
+  - asian
+  - japan
+  - east asian
 basic_science_exclude:
-  - "in vitro"
-  - "mouse model"
-  - "rat model"
-  - "cell line"
-  - "ex vivo"
-  - "murine"
-  - "knockout mice"
-  - "animal model"
-  - "zebrafish"
-
-# --- 曜日別テーマ設定 ---
+- in vitro
+- mouse model
+- rat model
+- cell line
+- ex vivo
+- murine
+- knockout mice
+- animal model
+- zebrafish
+ai:
+  model_chain:
+  - gemini-2.5-flash
+  - gemini-2.5-flash-lite-preview-09-2025
+  - gemini-2.0-flash
+  timeout: 120
+  max_retries: 3
+  retry_delay: 5
+output:
+  directory: output
+  filename_format: 医学論文レビュー_{date}.docx
+history:
+  file: history.json
+  retention_days: 180
+specialty_name: 精神科、睡眠医学、計算論的神経科学
+specialties:
+  primary:
+  - depression
+  - schizophrenia
+  - anxiety disorders
+  - sleep apnea
+  - insomnia
+  - computational neuroscience
+  - machine learning
+  secondary:
+  - bipolar disorder
+  - ptsd
+  - autism spectrum disorder
+  - psychotherapy
+  - antidepressants
+  - narcolepsy
+  - circadian rhythm
+  - neural networks
+  - deep learning
+  - fmri
+  - eeg
+  - connectomics
+journals:
+  tier1:
+  - Nat Neurosci
+  - Mol Psychiatry
+  - JAMA Psychiatry
+  - Sleep
+  - Neuron
+  tier2:
+  - Am J Psychiatry
+  - Biol Psychiatry
+  - J Sleep Res
+  - Neuroimage
+  - Brain
+  tier3:
+  - J Affect Disord
+  - Schizophr Bull
+  - Sleep Med
+  - J Clin Sleep Med
+  - Front Comput Neurosci
+  - PLoS Comput Biol
+  - Psychol Med
+  - J Neurosci
 daily_themes:
-  # 月曜日
   Monday:
     specialties:
-      - "heart failure"
+    - psychiatric diagnosis
+    - mental health disorders
+    - neurodevelopmental disorders
+    - etiology of mental illness
+    - psychopathology
     journals:
-      - "JACC Heart Fail"
-      - "Eur J Heart Fail"
-      - "Circ Heart Fail"
-  # 火曜日
+    - Am J Psychiatry
+    - Biol Psychiatry
   Tuesday:
     specialties:
-      - "hypertension"
+    - insomnia treatment
+    - sleep apnea management
+    - narcolepsy treatment
+    - circadian rhythm disorders
+    - cbt-i
     journals:
-      - "Hypertension"
-      - "Am J Hypertens"
-      - "J Hum Hypertens"
-  # 水曜日
+    - Sleep
+    - J Clin Sleep Med
   Wednesday:
     specialties:
-      - "dyslipidemia"
-      - "lipid"
-      - "cholesterol"
-      - "statin"
-      - "hyperlipidemia"
+    - neural coding
+    - brain oscillations
+    - computational models
+    - predictive coding
+    - reinforcement learning
     journals:
-      - "J Clin Lipidol"
-      - "Atherosclerosis"
-      - "Arterioscler Thromb Vasc Biol"
-  # 木曜日
+    - Nat Neurosci
+    - Neuron
   Thursday:
     specialties:
-      - "diabetes mellitus"
+    - antidepressant efficacy
+    - antipsychotic treatment
+    - psychopharmacology
+    - mood stabilizers
+    - tms therapy
     journals:
-      - "Diabetes Care"
-      - "Diabetologia"
-      - "Diabetes"
-  # 金曜日
+    - Mol Psychiatry
+    - JAMA Psychiatry
   Friday:
     specialties:
-      - "ischemic heart disease"
-      - "myocardial infarction"
-      - "coronary artery disease"
+    - fmri studies
+    - eeg analysis
+    - brain connectivity
+    - connectomics research
+    - neuroimaging biomarkers
     journals:
-      - "EuroIntervention"
-      - "JACC Cardiovasc Interv"
-      - "Circ Cardiovasc Interv"
-  # 土曜日
+    - Neuroimage
+    - J Neurosci
   Saturday:
     specialties:
-      - "cardiovascular prevention"
-      - "primary prevention"
-      - "secondary prevention"
-      - "cardiovascular risk"
-      - "lifestyle intervention"
+    - cognitive dysfunction in schizophrenia
+    - memory impairment in depression
+    - attention deficit
+    - executive function
+    - neural circuits of anxiety
     journals:
-      - "Eur J Prev Cardiol"
-      - "J Am Heart Assoc"
-      - "Prev Med"
-  # 日曜日
+    - Brain
+    - Psychol Med
   Sunday:
     specialties:
-      - "arrhythmia"
-      - "atrial fibrillation"
-      - "ventricular tachycardia"
-      - "ventricular fibrillation"
+    - machine learning in psychiatry
+    - deep learning for sleep
+    - ai in neuroscience
+    - big data analysis
+    - statistical modeling of brain
     journals:
-      - "Heart Rhythm"
-      - "Europace"
-      - "Circ Arrhythm Electrophysiol"
+    - Front Comput Neurosci
+    - PLoS Comput Biol

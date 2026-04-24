@@ -47,7 +47,7 @@ journals:
     - "Lancet"
     - "Nature"
     - "Science"
-    - "Cell
+    - "Cell"
   # Tier 2 - 精神科専門誌
   tier2:
     - "Journal of Physiology"

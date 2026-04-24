@@ -1,3 +1,24 @@
 {
-  "reported_pmids": {}
+  "reported_pmids": {
+    "42003300": {
+      "title": "Impact of renal function on edoxaban antithrombotic therapy in patients with atrial fibrillation and stable coronary artery disease: a prespecified analysis of the EPIC-CAD trial.",
+      "reported_at": "2026-04-24T12:42:36.198479"
+    },
+    "40444814": {
+      "title": "Pre-treatment lysis time of plasma-derived fibrin clots and bleeding in patients on oral anticoagulants for atrial fibrillation in the ARISTOTLE trial.",
+      "reported_at": "2026-04-24T12:42:36.198479"
+    },
+    "41493293": {
+      "title": "Using Artificial Intelligence to Adjudicate Major Adverse Cardiovascular Events in Clinical Trials.",
+      "reported_at": "2026-04-24T12:42:36.198479"
+    },
+    "42003301": {
+      "title": "No antithrombotic therapy versus single antiplatelet therapy after percutaneous left atrial appendage closure in non-valvular atrial fibrillation: rationale and design of the multicentre, randomised, non-inferiority NAPT-LAAC trial.",
+      "reported_at": "2026-04-24T12:42:36.198479"
+    },
+    "42011673": {
+      "title": "Ultra-Low-Dose Noise-Free Technology to Reduce Radiation Exposure During Coronary Angiography.",
+      "reported_at": "2026-04-24T12:42:36.198479"
+    }
+  }
 }

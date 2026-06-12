@@ -483,6 +483,22 @@
     "42247462": {
       "title": "A multiscale, Bayesian inference approach to augment mechanistic models of cell signaling with machine-learning predictions of binding affinity.",
       "reported_at": "2026-06-10T23:23:06.750927"
+    },
+    "42259486": {
+      "title": "Neural correlates and candidate mechanisms of suicidal thoughts and behaviors in youth: A review of task-based fMRI studies.",
+      "reported_at": "2026-06-12T23:13:06.726473"
+    },
+    "42276437": {
+      "title": "Dynamic Mode Decomposition Analysis of Brain Dynamics in Autism Spectrum Disorder Patients.",
+      "reported_at": "2026-06-12T23:13:06.726473"
+    },
+    "42264311": {
+      "title": "Identifying neuroimaging biomarkers of adolescent major depressive disorder from cortical hemodynamic responses using machine learning approaches.",
+      "reported_at": "2026-06-12T23:13:06.726473"
+    },
+    "42250833": {
+      "title": "Cerebral Glucose Utilisation During Musical Emotions: A Multimodal Functional PET/MRI Study.",
+      "reported_at": "2026-06-12T23:13:06.726473"
     }
   }
 }

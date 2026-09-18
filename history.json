@@ -1315,6 +1315,10 @@
     "42727730": {
       "title": "Efficacy of tDCS-primed iTBS in major depressive disorder: A randomized, sham-controlled trial with exploratory resting motor threshold analyses.",
       "reported_at": "2026-09-17T00:01:04.043993"
+    },
+    "42744142": {
+      "title": "Modeling inter-subject heterogeneity improves multisite rs-fMRI identification of major depressive disorder: An interpretable graph neural network approach.",
+      "reported_at": "2026-09-18T23:48:48.642098"
     }
   }
 }

@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42032432": {
-      "title": "Transcriptomic and phenotypic convergence of neurodevelopmental disorder risk genes in vitro and in vivo.",
-      "reported_at": "2026-04-27T22:46:10.701180"
-    },
-    "42032298": {
-      "title": "Multiomics analysis identifies VPA-induced changes in neural progenitor cells, ventricular-like regions, and cellular microenvironment in dorsal forebrain organoids.",
-      "reported_at": "2026-04-27T22:46:10.701180"
-    },
-    "42025639": {
-      "title": "Selfhood under stress: Network differences in trauma-related disorders and self-conscious emotions.",
-      "reported_at": "2026-04-27T22:46:10.701180"
-    },
-    "42025641": {
-      "title": "Mental health in expectant mothers after medically assisted reproduction and spontaneous conception: the nuMoM2b study.",
-      "reported_at": "2026-04-27T22:46:10.701180"
-    },
-    "42031013": {
-      "title": "Sex differences in risk for self-injurious thoughts and behaviors among offspring of mothers with a history of major depression.",
-      "reported_at": "2026-04-27T22:46:10.701180"
-    },
     "41775629": {
       "title": "Mesocorticostriatal Reinforcement Learning of State Representation and Value with Implications for the Mechanisms of Schizophrenia.",
       "reported_at": "2026-04-29T22:53:53.181971"
@@ -1503,6 +1483,10 @@
     "42892401": {
       "title": "The dynamic interplay between subjective and objective cognitive performance and their impact on the prognosis of major depressive disorder: A cross-lagged panel network analysis.",
       "reported_at": "2026-10-24T00:11:25.470865"
+    },
+    "42914525": {
+      "title": "Aperiodic EEG activity is a domain-specific marker of attentional aging in neurotypical adults.",
+      "reported_at": "2026-10-24T23:56:05.693569"
     }
   }
 }

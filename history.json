@@ -1,45 +1,5 @@
 {
   "reported_pmids": {
-    "41895547": {
-      "title": "Generalizable prediction of hand motor behaviour from spontaneous brain connectivity.",
-      "reported_at": "2026-05-01T22:45:26.936623"
-    },
-    "41475566": {
-      "title": "Task-based fMRI and neuropsychological insights into memory and attention in bipolar disorder: A systematic review.",
-      "reported_at": "2026-05-01T22:45:26.936623"
-    },
-    "42035898": {
-      "title": "Diagnostic utility of quantitative susceptibility mapping in Parkinson's disease and atypical parkinsonism: A systematic review and meta-analysis.",
-      "reported_at": "2026-05-01T22:45:26.936623"
-    },
-    "41887546": {
-      "title": "Transcutaneous auricular vagus nerve stimulation facilitates visuomotor association learning: Behavioral and electrophysiological evidence.",
-      "reported_at": "2026-05-01T22:45:26.936623"
-    },
-    "41881176": {
-      "title": "Microstructural alteration of the Frontal Aslant Tract in Tourette syndrome.",
-      "reported_at": "2026-05-01T22:45:26.936623"
-    },
-    "42037487": {
-      "title": "Cognitive performance in offspring of parents with severe mental illness: a meta-analysis.",
-      "reported_at": "2026-05-02T22:36:36.763389"
-    },
-    "41420112": {
-      "title": "Efficacy and safety of transcranial alternating current stimulation in adults with attention deficit hyperactivity disorder: a double-blind randomized sham-controlled trial.",
-      "reported_at": "2026-05-02T22:36:36.763389"
-    },
-    "42061518": {
-      "title": "Metabolic heterogeneity of obesity and cognitive decline: A 14-year population-based longitudinal cohort study.",
-      "reported_at": "2026-05-02T22:36:36.763389"
-    },
-    "42037477": {
-      "title": "Characterizing executive dysfunctions in patients with schizo-obsessive comorbidity: comparing schizophrenia with obsessive-compulsive disorder.",
-      "reported_at": "2026-05-02T22:36:36.763389"
-    },
-    "41398372": {
-      "title": "Downregulation of integrin α3 in ADHD mirrored in mutant mouse model by dopamine-dependent hippocampal AMPAR expression.",
-      "reported_at": "2026-05-02T22:36:36.763389"
-    },
     "42069105": {
       "title": "Implications of Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) for Mood Disorders and Suicide Risk.",
       "reported_at": "2026-05-04T22:54:06.784945"
@@ -1499,6 +1459,18 @@
     "42904346": {
       "title": "Transdiagnostic factors differentially shape choices and decision times in social evaluative learning.",
       "reported_at": "2026-10-28T00:54:21.923441"
+    },
+    "42946688": {
+      "title": "Effects of External Trigeminal Nerve Stimulation on Neurocognitive Functioning in Children and Adolescents With ADHD: A Phase 2b Multicenter Randomized Controlled Trial.",
+      "reported_at": "2026-10-31T01:21:31.079894"
+    },
+    "42953974": {
+      "title": "Alzheimer's pathology mediates arteriolosclerosis and cerebral amyloid angiopathy associations with cognition.",
+      "reported_at": "2026-10-31T01:21:31.079894"
+    },
+    "42951687": {
+      "title": "Content Validity and Psychometric Properties Assessment of the Virtual Reality Functional Capacity Assessment Tool and Application in Multiregional Clinical Trials of Cognitive Impairment Associated with Schizophrenia.",
+      "reported_at": "2026-10-31T01:21:31.079894"
     }
   }
 }

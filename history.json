@@ -1,29 +1,5 @@
 {
   "reported_pmids": {
-    "42069105": {
-      "title": "Implications of Glucagon-Like Peptide-1 Receptor Agonists (GLP-1 RAs) for Mood Disorders and Suicide Risk.",
-      "reported_at": "2026-05-04T22:54:06.784945"
-    },
-    "41444402": {
-      "title": "Common alterations of whole and subregion-specific amygdala intrinsic functional connectivity across psychiatric disorders: a meta-analysis.",
-      "reported_at": "2026-05-04T22:54:06.784945"
-    },
-    "42055499": {
-      "title": "Sleep disorders in children with Cri du Chat syndrome: A questionnaire-based study.",
-      "reported_at": "2026-05-04T22:54:06.784945"
-    },
-    "41571195": {
-      "title": "Targeting savoring: the electrocortical effects of a two-session positive emotion up-regulation treatment for internalizing psychopathology.",
-      "reported_at": "2026-05-04T22:54:06.784945"
-    },
-    "41643230": {
-      "title": "Effect of melatonin enriched with L-Tryptophan and 5-Hydroxytryptophan on sleep parameters in children with neurodevelopmental disorders.",
-      "reported_at": "2026-05-04T22:54:06.784945"
-    },
-    "41637995": {
-      "title": "Swipe for sleep - a standardized evaluation of mobile health apps for insomnia in children and adolescents.",
-      "reported_at": "2026-05-05T22:51:41.123582"
-    },
     "42069024": {
       "title": "The predictive brain: Neural correlates of word expectancy align with large language model prediction probabilities.",
       "reported_at": "2026-05-06T22:44:55.344929"
@@ -1471,6 +1447,26 @@
     "42951687": {
       "title": "Content Validity and Psychometric Properties Assessment of the Virtual Reality Functional Capacity Assessment Tool and Application in Multiregional Clinical Trials of Cognitive Impairment Associated with Schizophrenia.",
       "reported_at": "2026-10-31T01:21:31.079894"
+    },
+    "42966438": {
+      "title": "Harmonization of transdiagnostic psychiatric phenotypes across a large multi-site study reveals high burden of neuropsychiatric multimorbidity in 16p11.2 and 22q11.2 copy number variant carriers.",
+      "reported_at": "2026-11-02T01:12:51.989675"
+    },
+    "42929051": {
+      "title": "Do psychiatrists have a spider-sense? Clinical impressions as violations of interpersonal Bayesian expectation.",
+      "reported_at": "2026-11-02T01:12:51.989675"
+    },
+    "42962959": {
+      "title": "Brain systems supporting the narrative self and psychopathology.",
+      "reported_at": "2026-11-02T01:12:51.989675"
+    },
+    "42929241": {
+      "title": "Is there a natural boundary for formal thought disorder? Evidence from taxometric analysis.",
+      "reported_at": "2026-11-02T01:12:51.989675"
+    },
+    "42945476": {
+      "title": "KCNH1 variants associated with neurodevelopmental disorders exhibit prominent gain of function.",
+      "reported_at": "2026-11-02T01:12:51.989675"
     }
   }
 }

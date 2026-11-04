@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42069024": {
-      "title": "The predictive brain: Neural correlates of word expectancy align with large language model prediction probabilities.",
-      "reported_at": "2026-05-06T22:44:55.344929"
-    },
-    "42060699": {
-      "title": "Learning the bistable cortical dynamics of the sleep-onset period.",
-      "reported_at": "2026-05-06T22:44:55.344929"
-    },
-    "41903597": {
-      "title": "Learning from feedback is independent from feedback visibility, but supported by aperiodic neural activity.",
-      "reported_at": "2026-05-06T22:44:55.344929"
-    },
     "42086322": {
       "title": "Electrophysiological Brain Connectivity and Subjective States Evoked by Electrical Stimulation of the Human Mid-Thalamus.",
       "reported_at": "2026-05-08T22:52:46.245905"
@@ -1467,6 +1455,22 @@
     "42945476": {
       "title": "KCNH1 variants associated with neurodevelopmental disorders exhibit prominent gain of function.",
       "reported_at": "2026-11-02T01:12:51.989675"
+    },
+    "42957314": {
+      "title": "Macaque Area LIP Reflects Confidence-Dependent Changes in Decision Policy.",
+      "reported_at": "2026-11-04T01:50:05.002923"
+    },
+    "42961972": {
+      "title": "Interpretable embeddings of speech explain and enhance the brain encoding performance of audio models.",
+      "reported_at": "2026-11-04T01:50:05.002923"
+    },
+    "42810968": {
+      "title": "Synchronous Activity in the Auditory Forebrain Represents Temporal Landmarks in Vocal Communication Signals.",
+      "reported_at": "2026-11-04T01:50:05.002923"
+    },
+    "42957320": {
+      "title": "State-Dependent Modulation of Corticospinal and Cortical Responses by Closed-Loop Paired-pulse TMS.",
+      "reported_at": "2026-11-04T01:50:05.002923"
     }
   }
 }

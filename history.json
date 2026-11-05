@@ -1,21 +1,5 @@
 {
   "reported_pmids": {
-    "42086322": {
-      "title": "Electrophysiological Brain Connectivity and Subjective States Evoked by Electrical Stimulation of the Human Mid-Thalamus.",
-      "reported_at": "2026-05-08T22:52:46.245905"
-    },
-    "41252286": {
-      "title": "Transcranial magnetic stimulation with intracranial recording in humans and primates: a review.",
-      "reported_at": "2026-05-08T22:52:46.245905"
-    },
-    "42102258": {
-      "title": "King's stages of amyotrophic lateral sclerosis: an 18F-FDG-PET study of brain connectivity.",
-      "reported_at": "2026-05-08T22:52:46.245905"
-    },
-    "41534664": {
-      "title": "Altered cognitive performance and frontal alpha asymmetries during emotion-cognition interactions in older adults with a history of depression and/or anxiety.",
-      "reported_at": "2026-05-08T22:52:46.245905"
-    },
     "42100880": {
       "title": "Cognitive effects of intravenous Ketamine in treatment-resistant depression: A systematic review.",
       "reported_at": "2026-05-09T22:38:20.369143"
@@ -1471,6 +1455,10 @@
     "42957320": {
       "title": "State-Dependent Modulation of Corticospinal and Cortical Responses by Closed-Loop Paired-pulse TMS.",
       "reported_at": "2026-11-04T01:50:05.002923"
+    },
+    "42972007": {
+      "title": "Dynamic epigenetic changes during antidepressant pharmacotherapy in major depressive disorder.",
+      "reported_at": "2026-11-05T01:57:15.418425"
     }
   }
 }

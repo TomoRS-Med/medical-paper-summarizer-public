@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42106518": {
-      "title": "Homozygous CHD8 mutation intensifies ASD phenotypes and attenuates sex differences.",
-      "reported_at": "2026-05-11T22:51:06.727315"
-    },
-    "42082754": {
-      "title": "ASD mutations in the ciliary gene CEP41 impact development of projection neurons and interneurons in a human cortical organoid model.",
-      "reported_at": "2026-05-11T22:51:06.727315"
-    },
-    "41325101": {
-      "title": "RNArchitects: how hnRNPs shape neuronal landscapes.",
-      "reported_at": "2026-05-11T22:51:06.727315"
-    },
-    "41077560": {
-      "title": "Compound heterozygous mutations in the SSPOP gene lead to epilepsy and developmental disorders.",
-      "reported_at": "2026-05-11T22:51:06.727315"
-    },
-    "42100879": {
-      "title": "Childhood environment clusters reveal heterogeneous associations between large-scale brain networks and youth mental health symptoms.",
-      "reported_at": "2026-05-11T22:51:06.727315"
-    },
     "42105747": {
       "title": "A global dopaminergic learning rate enables adaptive foraging across many options.",
       "reported_at": "2026-05-13T23:02:19.437174"
@@ -1471,6 +1451,14 @@
     "42297153": {
       "title": "The quest to find genuine adult ADHD: Navigating diagnostic challenges of malingering - a review.",
       "reported_at": "2026-11-07T01:31:44.109586"
+    },
+    "42977016": {
+      "title": "Immune-Microbiome Crosstalk in the Developmental Origins of Neurodevelopmental Disorders.",
+      "reported_at": "2026-11-09T01:21:41.184887"
+    },
+    "42982939": {
+      "title": "Bioinformatic investigation of convergent proteins and cellular functions downstream of autism-associated genes.",
+      "reported_at": "2026-11-09T01:21:41.184887"
     }
   }
 }

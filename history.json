@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42105747": {
-      "title": "A global dopaminergic learning rate enables adaptive foraging across many options.",
-      "reported_at": "2026-05-13T23:02:19.437174"
-    },
-    "41812658": {
-      "title": "The emergence of neuropsychiatric symptoms in preclinical Alzheimer's disease: An emotion regulation perspective.",
-      "reported_at": "2026-05-13T23:02:19.437174"
-    },
-    "41916757": {
-      "title": "The Role of Inhibitory Neurons in Deviance Sound Detection in Regular and Random Statistical Contexts.",
-      "reported_at": "2026-05-13T23:02:19.437174"
-    },
     "42115366": {
       "title": "Comparison of the clinical efficacy, safety and EEG functional connectivity changes between 18-Hz rTMS and iTBS of accelerated dTMS treatment for major depressive disorder: a randomized controlled trial.",
       "reported_at": "2026-05-14T22:53:04.574880"
@@ -1459,6 +1447,10 @@
     "42982939": {
       "title": "Bioinformatic investigation of convergent proteins and cellular functions downstream of autism-associated genes.",
       "reported_at": "2026-11-09T01:21:41.184887"
+    },
+    "42988787": {
+      "title": "How Is Cognitive Behavioural Therapy for Insomnia Provided in Randomized Controlled Trials? A Scoping Review.",
+      "reported_at": "2026-11-10T03:56:00.028092"
     }
   }
 }

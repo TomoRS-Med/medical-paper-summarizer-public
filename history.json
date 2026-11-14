@@ -1,49 +1,5 @@
 {
   "reported_pmids": {
-    "42115366": {
-      "title": "Comparison of the clinical efficacy, safety and EEG functional connectivity changes between 18-Hz rTMS and iTBS of accelerated dTMS treatment for major depressive disorder: a randomized controlled trial.",
-      "reported_at": "2026-05-14T22:53:04.574880"
-    },
-    "41990895": {
-      "title": "Neural-molecular signatures of insomnia: Insights from signed differential mapping and gene expression analysis.",
-      "reported_at": "2026-05-15T22:52:08.995771"
-    },
-    "41956907": {
-      "title": "Manifold Interactions between the Action-Mode Network and Sensorimotor Cortex during Human Motor Learning.",
-      "reported_at": "2026-05-15T22:52:08.995771"
-    },
-    "41631633": {
-      "title": "Divergent disruption of brain networks following total and chronic sleep loss: a longitudinal fMRI study.",
-      "reported_at": "2026-05-15T22:52:08.995771"
-    },
-    "41967787": {
-      "title": "The dynamic interplay between brain entropy and functional connectivity.",
-      "reported_at": "2026-05-15T22:52:08.995771"
-    },
-    "41895546": {
-      "title": "Decoding brain-heart dynamics: Effective connectivity predictors of heart rate variability.",
-      "reported_at": "2026-05-15T22:52:08.995771"
-    },
-    "42117428": {
-      "title": "White matter lesions disrupt cholinergic pathways important for cognition in Parkinson's disease.",
-      "reported_at": "2026-05-16T22:41:29.277884"
-    },
-    "41620184": {
-      "title": "Development and multi-center validation of a school-home integrated machine learning model for early screening of attention-deficit/hyperactivity disorder in school-aged children.",
-      "reported_at": "2026-05-16T22:41:29.277884"
-    },
-    "42129522": {
-      "title": "Closed-loop stimulation modulates attention shifting in children.",
-      "reported_at": "2026-05-16T22:41:29.277884"
-    },
-    "42112549": {
-      "title": "Cortical morphometric inverse divergence in attention-deficit/hyperactivity disorder correlates with cell-type-specific, laminar-specific and developmental transcriptomic signatures.",
-      "reported_at": "2026-05-16T22:41:29.277884"
-    },
-    "41620180": {
-      "title": "Depression and cognition in adolescents: A comparison of cross-sectional and longitudinal effects.",
-      "reported_at": "2026-05-16T22:41:29.277884"
-    },
     "42126840": {
       "title": "Acute, Longer-Term, and Transdiagnostic Outcomes After Digital Interventions for Eating Disorders: A Meta-Analysis.",
       "reported_at": "2026-05-18T22:56:35.059004"
@@ -1451,6 +1407,14 @@
     "42988787": {
       "title": "How Is Cognitive Behavioural Therapy for Insomnia Provided in Randomized Controlled Trials? A Scoping Review.",
       "reported_at": "2026-11-10T03:56:00.028092"
+    },
+    "43020884": {
+      "title": "Comparative effects of various exercise types and doses to improve executive function in children and adolescents with attention deficit hyperactivity disorder: a systematic review with pairwise, network, and dose-response meta-analyses.",
+      "reported_at": "2026-11-14T01:56:34.019193"
+    },
+    "43000075": {
+      "title": "E-Emotio. Effects of immersive virtual reality training on emotion regulation, executive functioning and internalizing symptoms in adolescents: A pilot randomized controlled trial.",
+      "reported_at": "2026-11-14T01:56:34.019193"
     }
   }
 }

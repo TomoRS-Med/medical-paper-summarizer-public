@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "42126840": {
-      "title": "Acute, Longer-Term, and Transdiagnostic Outcomes After Digital Interventions for Eating Disorders: A Meta-Analysis.",
-      "reported_at": "2026-05-18T22:56:35.059004"
-    },
-    "42138058": {
-      "title": "Delusional disorder and its differentiation from schizophrenia: A narrative review.",
-      "reported_at": "2026-05-18T22:56:35.059004"
-    },
-    "42140319": {
-      "title": "Positive and negative future thinking fluency: A transdiagnostic meta-analysis of associations with psychopathology and hopelessness.",
-      "reported_at": "2026-05-18T22:56:35.059004"
-    },
-    "42140320": {
-      "title": "Post-displacement mental health among Syrian refugees: A systematic review and meta-analysis comparing Middle Eastern and European host contexts across time.",
-      "reported_at": "2026-05-18T22:56:35.059004"
-    },
-    "42116816": {
-      "title": "Commonalities in frailty and psychopathology predict chronotype across severe mental disorders from a comorbidity perspective.",
-      "reported_at": "2026-05-18T22:56:35.059004"
-    },
     "42160368": {
       "title": "Dual-channel graph learning reveals similarity and complementarity in protein-protein interaction networks.",
       "reported_at": "2026-05-20T23:08:17.129441"
@@ -1415,6 +1395,26 @@
     "43000075": {
       "title": "E-Emotio. Effects of immersive virtual reality training on emotion regulation, executive functioning and internalizing symptoms in adolescents: A pilot randomized controlled trial.",
       "reported_at": "2026-11-14T01:56:34.019193"
+    },
+    "43025773": {
+      "title": "Personalized Functional Network Mapping Across the Lifespan.",
+      "reported_at": "2026-11-16T01:32:35.314721"
+    },
+    "43026327": {
+      "title": "Enhancer-targeted CRISPR-A rescues haploinsufficiency and mutant phenotypes in organoid models of autism.",
+      "reported_at": "2026-11-16T01:32:35.314721"
+    },
+    "43014284": {
+      "title": "Brain organoids: Experimental access to human-specific brain development.",
+      "reported_at": "2026-11-16T01:32:35.314721"
+    },
+    "43015107": {
+      "title": "Maternal Immune Activation and Neurodevelopmental Disorders: A Cross-Species Perspective.",
+      "reported_at": "2026-11-16T01:32:35.314721"
+    },
+    "43014430": {
+      "title": "Distinct impulsivity profiles in a transdiagnostic framework: Associations with diagnosis, psychopathology, cognition, and brain metrics.",
+      "reported_at": "2026-11-16T01:32:35.314721"
     }
   }
 }

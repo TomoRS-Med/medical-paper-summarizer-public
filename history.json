@@ -1,13 +1,5 @@
 {
   "reported_pmids": {
-    "42160368": {
-      "title": "Dual-channel graph learning reveals similarity and complementarity in protein-protein interaction networks.",
-      "reported_at": "2026-05-20T23:08:17.129441"
-    },
-    "42144137": {
-      "title": "Treatment patterns and comparative clinical outcomes of ADHD medications in adolescents and young adults with comorbid major depressive disorder.",
-      "reported_at": "2026-05-21T22:59:50.396891"
-    },
     "41865916": {
       "title": "Fronto-cerebellar connectivity disruptions and functional reorganization in Friedreich's Ataxia: A structural and resting-state fMRI study.",
       "reported_at": "2026-05-22T22:54:32.224677"
@@ -1415,6 +1407,26 @@
     "43014430": {
       "title": "Distinct impulsivity profiles in a transdiagnostic framework: Associations with diagnosis, psychopathology, cognition, and brain metrics.",
       "reported_at": "2026-11-16T01:32:35.314721"
+    },
+    "43026726": {
+      "title": "Hemodynamic spectral signatures across vigilance states: a whole-night EEG/fNIRS investigation.",
+      "reported_at": "2026-11-18T03:17:31.947439"
+    },
+    "43015114": {
+      "title": "Postnatal Development of Sensory Circuits Supporting Lifelong Social Behaviors.",
+      "reported_at": "2026-11-18T03:17:31.947439"
+    },
+    "43038293": {
+      "title": "Epidemic control under incomplete observations through mechanistic state reconstruction and multi-agent learning.",
+      "reported_at": "2026-11-18T03:17:31.947439"
+    },
+    "42855311": {
+      "title": "Revisiting Post-stimulus Theta Activity: Evidence for a Broadband Rather Than Narrowband Spectral Origin.",
+      "reported_at": "2026-11-18T03:17:31.947439"
+    },
+    "43015083": {
+      "title": "Neural Responses to Unexpected Stimulus Repetitions and Omissions in Auditory Cortex Provide Mixed Evidence for Predictive Coding.",
+      "reported_at": "2026-11-18T03:17:31.947439"
     }
   }
 }

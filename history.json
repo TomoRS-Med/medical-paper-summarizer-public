@@ -1,25 +1,5 @@
 {
   "reported_pmids": {
-    "41865916": {
-      "title": "Fronto-cerebellar connectivity disruptions and functional reorganization in Friedreich's Ataxia: A structural and resting-state fMRI study.",
-      "reported_at": "2026-05-22T22:54:32.224677"
-    },
-    "41895551": {
-      "title": "Rapid rTPJ-driven cortical interactions encode malicious intentions during implicit moral evaluation: A TMS-EEG study.",
-      "reported_at": "2026-05-22T22:54:32.224677"
-    },
-    "41043534": {
-      "title": "Task and Resting-State Functional Magnetic Resonance Imaging Modeling of Brain-Behavior Relationships in Developmental Cohorts.",
-      "reported_at": "2026-05-22T22:54:32.224677"
-    },
-    "42162625": {
-      "title": "From diffusion to focalization: The age-related divergence of emotional networks in bipolar disorder.",
-      "reported_at": "2026-05-22T22:54:32.224677"
-    },
-    "42142754": {
-      "title": "Acute stress alters prefrontal resting-state networks and tES restores functional connectivity.",
-      "reported_at": "2026-05-22T22:54:32.224677"
-    },
     "42144134": {
       "title": "Dissociable contributions of cold and hot executive function networks in predicting emotion regulation strategies.",
       "reported_at": "2026-05-23T22:47:51.946335"
@@ -1427,6 +1407,10 @@
     "43015083": {
       "title": "Neural Responses to Unexpected Stimulus Repetitions and Omissions in Auditory Cortex Provide Mixed Evidence for Predictive Coding.",
       "reported_at": "2026-11-18T03:17:31.947439"
+    },
+    "43046294": {
+      "title": "GLP-1 Receptor Agonists in Psychotic Disorders: Mechanistic Convergence and Therapeutic Implications for Brain and Metabolic Health.",
+      "reported_at": "2026-11-19T02:54:24.779869"
     }
   }
 }

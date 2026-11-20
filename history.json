@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42144134": {
-      "title": "Dissociable contributions of cold and hot executive function networks in predicting emotion regulation strategies.",
-      "reported_at": "2026-05-23T22:47:51.946335"
-    },
-    "42160045": {
-      "title": "Structure of the Genetic Risks for Psychiatric Disorders in Swedish Population-Based Registries.",
-      "reported_at": "2026-05-23T22:47:51.946335"
-    },
-    "42173367": {
-      "title": "Emotion regulation difficulties in adults with ADHD and associations with insomnia symptoms.",
-      "reported_at": "2026-05-23T22:47:51.946335"
-    },
     "42155452": {
       "title": "Translatome profiling reveals opposing alterations in inhibitory and excitatory neurons of fragile X mice and identifies EPAC2 as a therapeutic target.",
       "reported_at": "2026-05-25T22:56:12.159782"
@@ -1411,6 +1399,10 @@
     "43046294": {
       "title": "GLP-1 Receptor Agonists in Psychotic Disorders: Mechanistic Convergence and Therapeutic Implications for Brain and Metabolic Health.",
       "reported_at": "2026-11-19T02:54:24.779869"
+    },
+    "42398672": {
+      "title": "Resting-state brain dynamics characteristics in obsessive-compulsive disorder: A study based on hidden Markov model.",
+      "reported_at": "2026-11-20T02:47:28.232482"
     }
   }
 }

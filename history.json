@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42167253": {
-      "title": "Adaptive reorganization of history encoding in the retrosplenial cortex supports flexible decision-making strategies.",
-      "reported_at": "2026-05-27T23:13:49.001966"
-    },
-    "41864202": {
-      "title": "Representational similarity modulates neural and behavioral signatures of novelty.",
-      "reported_at": "2026-05-27T23:13:49.001966"
-    },
-    "42172291": {
-      "title": "A simple model captures key characteristics of biological non-deterministic genotype-phenotype maps.",
-      "reported_at": "2026-05-27T23:13:49.001966"
-    },
     "42176825": {
       "title": "Prefrontal tDCS modulates behavioural and neural signatures associated with consciousness.",
       "reported_at": "2026-05-29T23:08:26.021636"
@@ -1415,6 +1403,10 @@
     "43039698": {
       "title": "RAI1 loss produces cell type-specific transcriptomic, circuit, and behavioural consequences across mPFC GABAergic interneuron subtypes.",
       "reported_at": "2026-11-23T02:08:54.234929"
+    },
+    "43057232": {
+      "title": "The neural mechanisms of fast versus slow decision-making.",
+      "reported_at": "2026-11-25T04:44:28.887033"
     }
   }
 }

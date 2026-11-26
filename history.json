@@ -1,9 +1,5 @@
 {
   "reported_pmids": {
-    "42176825": {
-      "title": "Prefrontal tDCS modulates behavioural and neural signatures associated with consciousness.",
-      "reported_at": "2026-05-29T23:08:26.021636"
-    },
     "42206398": {
       "title": "Positive and negative maternal mental health demonstrate distinct pathways to childhood depression.",
       "reported_at": "2026-05-30T22:55:15.918646"
@@ -1407,6 +1403,14 @@
     "43057232": {
       "title": "The neural mechanisms of fast versus slow decision-making.",
       "reported_at": "2026-11-25T04:44:28.887033"
+    },
+    "43084308": {
+      "title": "Predicting Treatment Resistance in First-Episode Psychosis Using Routinely Collected Clinical Data.",
+      "reported_at": "2026-11-26T03:53:46.540319"
+    },
+    "43078282": {
+      "title": "Toward optimised magnetic seizure therapy for depression: A systematic review and meta-analysis of stimulation parameters and clinical outcomes.",
+      "reported_at": "2026-11-26T03:53:46.540319"
     }
   }
 }

@@ -1,17 +1,5 @@
 {
   "reported_pmids": {
-    "42206398": {
-      "title": "Positive and negative maternal mental health demonstrate distinct pathways to childhood depression.",
-      "reported_at": "2026-05-30T22:55:15.918646"
-    },
-    "42208878": {
-      "title": "Executive Function and Self-Injurious Thoughts and Behaviors: A Systematic Review and Meta-Analysis.",
-      "reported_at": "2026-05-30T22:55:15.918646"
-    },
-    "42201728": {
-      "title": "Recurrent Copy Number Variants and Psychiatric Outcomes in the Context of Polygenic Scores.",
-      "reported_at": "2026-05-30T22:55:15.918646"
-    },
     "41652152": {
       "title": "Effectiveness of network analysis-driven personalized digital interventions versus standard intervention for depression: a proof-of-concept pilot randomized controlled trial.",
       "reported_at": "2026-06-01T23:25:21.156686"
@@ -1411,6 +1399,14 @@
     "43078282": {
       "title": "Toward optimised magnetic seizure therapy for depression: A systematic review and meta-analysis of stimulation parameters and clinical outcomes.",
       "reported_at": "2026-11-26T03:53:46.540319"
+    },
+    "43086321": {
+      "title": "Neurotransmitter pathway-specific polygenic risk for psychiatric disorders and brain morphology in adolescents.",
+      "reported_at": "2026-11-28T03:41:10.848139"
+    },
+    "43078278": {
+      "title": "Processing speed as a prominent cognitive impairment in bipolar disorder: A multidomain systematic review and meta-analysis.",
+      "reported_at": "2026-11-28T03:41:10.848139"
     }
   }
 }
